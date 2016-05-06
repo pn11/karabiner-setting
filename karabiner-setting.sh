@@ -22,4 +22,8 @@ $cli set remap.optionR2fn 1
 /bin/echo -n .
 $cli set remap.fn_fkeys_to_consumer_f5 1
 /bin/echo -n .
+$cli set remap.jis_yen2backslash 1
+/bin/echo -n .
+$cli set remap.jis_jansi 1  # Use Japanese keyboard as US keyboard
+/bin/echo -n .
 /bin/echo
