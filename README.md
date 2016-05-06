@@ -44,3 +44,7 @@ US配列の Built-in keyboard, Magic Keyboard 2 を使用。OS の System Prefer
 ディスプレイ輝度、音量の変更などは <kbd>Fn</kbd> を押しながら行う。
 
 ![](fig/funtion-keys.png)
+
+## その他
+(Yosemite で Magic Keyboard2 を使ってるからか、そもそも <kbd>Fn</kbd> が動作してない...)
+

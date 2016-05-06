@@ -10,7 +10,7 @@ $cli set remap.jis_commandL2commandL_eisuu 1
 /bin/echo -n .
 $cli set remap.fn_fkeys_to_consumer_f1 1
 /bin/echo -n .
-$cli set remap.jis_commandR2kana 1
+$cli set remap.jis_commandR2commandR_kana 1
 /bin/echo -n .
 $cli set remap.fn_fkeys_to_consumer_f3_lion 1
 /bin/echo -n .
