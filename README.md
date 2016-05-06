@@ -20,5 +20,27 @@ US配列の Built-in keyboard, Magic Keyboard 2 を使用。OS の System Prefer
 - <kbd>右Command</kbd> を <kbd>かな</kbd> に 
 - <kbd>fn</kbd> を <kbd>Command</kbd> に 
 - <kbd>右Option</kbd> を <kbd>fn</kbd> に 
-- <kbd>Control</kbd> + PNBF でカーソル移動 (Emacs mode)
+- <kbd>Control</kbd> + <kbd>P</kbd><kbd>N</kbd><kbd>B</kbd><kbd>F</kbd> でカーソル移動 (Emacs mode)
 - 円記号をバックスラッシュに
+- JIS Keyboard を US keyboard として使う
+
+## Karabiner 以外の設定
+以下の設定は Karabiner とは関係ないけどついでに記録しとく。
+
+### System Preference の Modifier Key の設定
+#### US keyboard case
+
+![](fig/mod-key-US.png)
+
+#### JIS keyboard case
+
+![](fig/mod-key-JIS.png)
+
+### Spotlight を <kbd>Cmd</kbd> + <kbd>Space</kbd> に
+
+![](fig/spotlight.png) 
+
+### <kbd>F1</kbd>, <kbd>F2</kbd> とかはそのままで使う
+ディスプレイ輝度、音量の変更などは <kbd>Fn</kbd> を押しながら行う。
+
+![](fig/funtion-keys.png)
